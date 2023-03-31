@@ -1,0 +1,11 @@
+Source: figgle
+Section: graphics
+Priority: optional
+Maintainer: hery <heritiana@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+
+Package: figgle
+Architecture: any
+Description: ASCII art text creation tool
+ Figgle is a command-line tool for creating ASCII art text
